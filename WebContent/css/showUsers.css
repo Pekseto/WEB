@@ -1,0 +1,121 @@
+.main-container {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sort-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+    border: 2px solid black;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+    text-align: left;
+    padding: 8px;
+    border-bottom: 2px solid black;
+    text-align: center; 
+  }
+
+  th:last-child {
+    border-left: 2px solid black;
+  }
+  
+  td {
+    padding: 8px;
+    border-bottom: 2px solid black;
+  }
+
+  td:last-child {
+    border-left: 2px solid black;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: #f2f2f2;
+  }
+
+  tr:nth-child(even){
+    background-color: white;
+  }
+  
+  button.blocked {
+    background-color: #dc3545;
+  }
+
+  button.blocked:hover {
+    background-color: #a61625;
+  }
+
+  .btnn, .btnn:link, .btnn:visited {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: skyblue;
+    border: 1px solid transparent;
+    padding: 0rem 0.75rem;
+    width: 10rem;
+    height: 40px;
+    font-size: 1rem;
+    border: 2px solid black;
+    border-radius: 100px;
+}
+
+    .btnn:hover {
+        color: #fff;
+        transform: translateY(-3px);
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+        background-color: rgb(49, 127, 158);
+    }
+
+    .btnn:active {
+        transform: translateY(-1px);
+    }
+
+.btn-search {
+  width: 5rem;
+  height: 25px;
+  vertical-align: middle;
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
+
+.btn-sort {
+  margin: 0;
+}
+
+.search_input {
+  height: 25px;
+  width: 9rem;
+  font-size: 20px;
+  padding: 0;
+  padding-left: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid black;
+  border-radius: 1rem;
+}
+
+  .search_input:focus {
+      outline: none;
+  }

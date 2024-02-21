@@ -1,0 +1,5 @@
+1|peksetoo|a|Luka|Zecevic|Male|2001-03-23|Customer|17000.0|false|false
+2|todor|a|Luka|Todorovic|Male|2001-07-29|Customer|5700.0|false|false
+3|UserTest|test|UserTest|UserTest|Male|2001-07-29|Customer|1000.0|false|false
+4|Testiranje|test|Testiranje|Testiranje|Male|2001-07-29|Customer|3900.0|true|true
+5|ProveraRada|p|Provera|Provera|Male|2001-07-29|Customer|0.0|false|false

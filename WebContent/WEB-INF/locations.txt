@@ -1,0 +1,4 @@
+1|25.0|38.5|Milosa Obilica 25|Subotica|24000
+2|12.0|2.0|adsadsa|dsadsad 5|24000
+3|23.45|159.42|Sekeres Lasla 57|Novi Sad|31000
+4|1.0|1.0|a|a|1

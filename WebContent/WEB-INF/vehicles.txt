@@ -1,0 +1,3 @@
+1|bmw|x7|23000|Car|Automatic|Hybrid|4.0|5|5|description|https://hips.hearstapps.com/hmg-prod/images/2023-bmw-x7-xdrive-40i134-641c5b3ca7165.jpg?crop=0.596xw:0.447xh;0.290xw,0.377xh&resize=1200:*|1|true|0
+2|audi|a6|20000|Car|Automatic|Diesel|5.0|5|5|description|image|2|true|0
+3|lambo|urus|23231|Car|Manual|Diesel|1.0|1|1|description|image|3|true|0

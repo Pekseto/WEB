@@ -1,0 +1,3 @@
+1|manager1|m|Luka|Zecevic|Male|2001-03-23|Manager|1|false
+2|manager2|m|Luka|Todorovic|Male|2001-07-29|Manager|2|false
+3|manager3|m|Jovan|Dezic|Female|2023-08-01|Manager|5|false
